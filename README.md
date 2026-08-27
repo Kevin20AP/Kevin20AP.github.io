@@ -1,22 +1,16 @@
 # Kevin.AP — Portfolio
 
-Personal portfolio repository with Python projects, ML applications, and software engineering work.
+Software projects including Python games, REST APIs, and application development work.
 
 ## Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Python_Projects](./Python_Projects) | Python games and applications — Snake, Turtle Crossing, and more | Python · Turtle |
-| [Sensitive_Data_Detection](./Sensitive_Data_Detection) | ML system to detect sensitive data exposure in images with CNN + OCR | Python · TensorFlow · Flask |
-
-## Other Work
-
-- `Basic_Banking_App.rar` — Android banking app (Java, XML, SQLite)
-- `Flask_Rest_API_Youtube` — Flask REST API project
-- `ML_Fake_job_prediction` — ML fake job posting detection
-- `Pong` — Classic Pong game
+| [Python_Projects](./Python_Projects) | Python games — Snake, Turtle Crossing, and arcade projects | Python · Turtle |
+| [flask-rest-api](./flask-rest-api) | REST API with Flask and SQLite for CRUD operations | Python · Flask · SQLite |
+| [pong](./pong) | Classic Pong game with Python Turtle graphics | Python · Turtle |
 
 ## Author
 
 **Kevin.AP** — Data Engineer · Data Analyst · AI/ML Engineer  
-[GitHub](https://github.com/Kevin20AP) · [LinkedIn](https://www.linkedin.com/in/kevin-ap11)
+[GitHub](https://github.com/Kevin20AP) · [LinkedIn](https://www.linkedin.com/in/kevin-ap11) · [Portfolio](https://kevin20ap.github.io)
